@@ -1,0 +1,6 @@
+{
+  "name": "ember-school-1",
+  "dependencies": {
+    "firebase": "^2.1.0"
+  }
+}

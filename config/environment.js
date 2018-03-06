@@ -4,6 +4,7 @@
 module.exports = function(environment) {
   let ENV = {
     modulePrefix: 'ember-school-1',
+    firebase: 'https://emberschool-73311.firebaseio.com',
     environment,
     rootURL: '/',
     locationType: 'auto',

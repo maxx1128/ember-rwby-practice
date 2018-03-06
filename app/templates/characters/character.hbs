@@ -1,0 +1,26 @@
+<h5>
+  <span class="rwby-font-weight-bold">{{model.name}}</span> of Team {{#link-to 'teams.team' model.team.id}}{{model.team.name}}{{/link-to}}
+</h5>
+
+<p>
+  Rating: {{ model.rating }}
+</p>
+
+<p>
+  {{model.description}}
+</p>
+
+{{#if model.canBattle}}
+  <button {{action 'attack' model}}>
+    Attack them!
+  </button>
+{{else}}
+  <button {{action 'heal' model}}>
+    Heal them!
+  </button>
+{{/if}}
+
+<br>
+<br>
+
+{{link-to 'Edit Fighter' 'characters.character.edit' model.id}}

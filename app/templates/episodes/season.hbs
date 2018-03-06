@@ -1,0 +1,15 @@
+<h4>
+  All episodes in season {{season}}
+</h4>
+
+<ul>
+  {{#each filteredEpisodes as |ep|}}
+    <li>
+      {{#link-to 'episodes.season.episode' season ep.id }}
+        {{ep.title}}
+      {{/link-to}}
+    </li>
+  {{/each}}
+</ul>
+
+{{outlet}}

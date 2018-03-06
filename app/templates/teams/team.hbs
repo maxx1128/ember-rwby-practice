@@ -1,0 +1,27 @@
+<p>
+  These are the team members for {{model.team.name}}.
+</p>
+
+<ul>
+  {{#each model.team.characters as |char|}}
+    <li class="{{if char.leader 'rwby-font-weight-bold'}}">
+      {{#link-to 'characters.character' char.id}}
+        {{char.name}} <button {{action 'removeCharacterFromTeam' char model.team}}>Remove</button>
+      {{/link-to}}
+    </li>
+  {{/each}}
+</ul>
+
+<h4>
+  Other fighters
+</h4>
+
+<ul>
+  {{#each model.characters as |char|}}
+    {{#unless char.team}}
+      <li>
+        {{char.name}} <button {{action 'addCharacterToTeam' char model.team}}>Add to Team</button>
+      </li>
+    {{/unless}}
+  {{/each}}
+</ul>

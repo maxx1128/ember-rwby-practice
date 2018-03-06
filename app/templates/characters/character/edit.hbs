@@ -1,0 +1,36 @@
+<ul>
+  <li class="{{if model.character.leader 'rwby-font-weight-bold'}}">
+    {{input value=model.character.name}} <button {{action "updateName" model.character}}>Save</button>
+  </li>
+
+  <li>
+    Rating:
+      <button {{action 'updateRating' model.character -1}} disabled={{equals model.character.rating 0}}>-</button> 
+        {{ model.character.rating }}
+      <button {{action 'updateRating' model.character 1}} disabled={{equals model.character.rating 10}}>+</button>
+  </li>
+</ul>
+
+{{#x-select action="updateTeam" value=model.character.team.content as |xs|}}
+  {{#xs.option value="None"}}
+      None
+    {{/xs.option}}
+  {{#each model.teams as |team|}}
+    {{#xs.option value=team}}
+      {{team.name}}
+    {{/xs.option}}
+  {{/each}}
+{{/x-select}}
+
+<br>
+<br>
+<br>
+
+<button {{action 'destroyCharacter' model}}>
+  Remove Character
+</button>
+
+<br>
+<br>
+
+{{link-to 'Return to Fighter Info' 'characters.character' model.character.id}}

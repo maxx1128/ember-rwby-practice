@@ -1,0 +1,15 @@
+<h4>
+  All the current episodes are here!
+</h4>
+
+<ul>
+  {{#each different_seasons as |season|}}
+    <li>
+      {{#link-to 'episodes.season' season}}
+        {{season}}
+      {{/link-to}}
+    </li>
+  {{/each}}
+</ul>
+
+{{outlet}}

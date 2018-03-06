@@ -1,0 +1,19 @@
+<article class="rwby-border-a rwby-border-a-w-third rwby-py-quart {{if fighter.canBattle 'rwby-border-primary-base' 'rwby-border-action-dark'}} {{classes}}">
+  {{#active-link tagName="div" activeClass="rwby-font-weight-bold"}}
+    <ul>
+      <li>
+        {{#link-to 'characters.character' fighter.id activeClass="rwby-font-weight-bold"}}
+          {{fighter.name}}
+        {{/link-to}}
+      </li>
+
+      <li>
+        Rating: {{fighter.rating}}
+      </li>
+
+      <li>
+        {{if fighter.canBattle 'Ready to fight!' 'Fainted!'}}
+      </li>
+    </ul>
+  {{/active-link}}
+</article>

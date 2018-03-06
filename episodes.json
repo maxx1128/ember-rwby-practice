@@ -1,0 +1,598 @@
+[
+  null,
+  { 
+    "episode": 1,
+    "season": 1,
+    "chapter": 1,
+    "title": "Ruby Rose",
+    "time": "12:21",
+    "release_date": "07182013",
+    "rating": 0,
+    "description": "Ruby Rose stops a robbery at a Dust shop and, during a fight with Roman Torchwick, she is saved by Glynda Goodwitch. Goodwitch introduces her to the headmaster of Beacon Academy, Professor Ozpin. Impressed, Ozpin allows her to enroll in Beacon Academy despite her age."
+  }, {
+    "episode": 2,
+    "season": 1,
+    "chapter": 2,
+    "title": "The Shining Beacon",
+    "time": "6:15",
+    "release_date": "07252013",
+    "rating": 0,
+    "description": "On her first day of school, Ruby gets off to a bad start with Weiss Schnee, after knocking over her luggage and causing an explosion with dust. Among others, she also meets Blake Belladonna and Jaune Arc."
+  }, {
+    "episode": 3,
+    "season": 1,
+    "chapter": 3,
+    "title": "The Shining Beacon, Part 2",
+    "time": "6:39",
+    "release_date": "08012013",
+    "rating": 0,
+    "description": "Ruby becomes concerned about making new friends during the initiation the next day, while Yang tries to help her befriend Blake."
+  }, {
+    "episode": 4,
+    "season": 1,
+    "chapter": 4,
+    "title": "The First Step",
+    "time": "7:36",
+    "release_date": "08082013",
+    "rating": 0,
+    "description": "The next morning, the students prepare for their initiation and are tasked to return with a relic found in the forest."
+  }, {
+    "episode": 5,
+    "season": 1,
+    "chapter": 5,
+    "title": "The First Step, Part 2",
+    "time": "4:30",
+    "release_date": "08152013",
+    "rating": 0,
+    "description": "During initiation, the students choose their partners. Ruby and Weiss are paired together, as with Jaune with Pyrrha."
+  }, {
+    "episode": 6,
+    "season": 1,
+    "chapter": 6,
+    "title": "The Emerald Forest",
+    "time": "7:14",
+    "release_date": "08222013",
+    "rating": 0,
+    "description": "As the initiation continues, Pyrrha teaches Jaune about Aura and Ren fights a King Taijitu, a snake-type Grimm. Yang and Blake are paired together, as with Nora and Ren."
+  }, {
+    "episode": 7,
+    "season": 1,
+    "chapter": 7,
+    "title": "The Emerald Forest, Part 2",
+    "time": "4:47",
+    "release_date": "08292013",
+    "rating": 0,
+    "description": "Ruby and Weiss get into an argument, while Yang and Blake have found the relics. Jaune and Pyrrha are attacked by a Deathstalker, a scorpion type Grimm, which chases them into the temple."
+  }, {
+    "episode": 8,
+    "season": 1,
+    "chapter": 8,
+    "title": "Players and Pieces",
+    "time": "13:45",
+    "release_date": "09052013",
+    "rating": 0,
+    "description": "As the eight students reunite at the temple, they are all attacked by Grimm. Jaune, Nora, Pyrrha and Ren team up to take down the Deathstalker, while Ruby, Weiss, Blake and Yang combine to kill the Nevermore. Back at Beacon, Ozpin forms the new teams, including Team CRDL, JNPR (with Jaune as the leader) and RWBY (with Ruby as the leader)."
+  }, {
+    "episode": 9,
+    "season": 1,
+    "chapter": 9,
+    "title": "The Badge and The Burden",
+    "time": "5:31",
+    "release_date": "09122013",
+    "rating": 0,
+    "description": "The morning after the initiation, Team RWBY decorate their room and attend their first classes. Weiss becomes infuriated when she sees Ruby goofing around in class, feeling that she is not serious about being a Huntress."
+  }, {
+    "episode": 10,
+    "season": 1,
+    "chapter": 10,
+    "title": "The Badge and The Burden, Part 2",
+    "time": "6:58",
+    "release_date": "09192013",
+    "rating": 0,
+    "description": "Weiss defeats a Boarbatusk, a boar-type Grimm, for Port's class demonstration, with the help of Ruby's advice. After class, the two become wrapped up in an argument over Ruby's qualifications as a leader. Ozpin advises Ruby to be more responsible, while Port tells Weiss to be more humble. Under their advice, Ruby and Weiss put aside their differences."
+  }, {
+    "episode": 11,
+    "season": 1,
+    "chapter": 11,
+    "title": "Jaunedice",
+    "time": "4:50",
+    "release_date": "09262013",
+    "rating": 0,
+    "description": "As the Vytal Festival Tournament draws near, Jaune becomes bullied by Team CRDL's leader, Cardin."
+  }, {
+    "episode": 12,
+    "season": 1,
+    "chapter": 12,
+    "title": "Jaunedice, Part 2",
+    "time": "7:25",
+    "release_date": "10032013",
+    "rating": 0,
+    "description": "Cardin continues to bully Jaune as the class discusses racism towards Faunus and the White Fang. Jaune admits to Pyrrha that he enrolled in Beacon Academy using fake transcripts, which Cardin overhears."
+  }, {
+    "episode": 13,
+    "season": 1,
+    "chapter": 13,
+    "title": "Forever Fall",
+    "time": "6:09",
+    "release_date": "10102013",
+    "rating": 0,
+    "description": "During the class' field trip to Forever Fall Forest, Cardin blackmails Jaune into doing Team CRDL's assignment and forces him into execute revenge on Pyrrha for retaliating against him in class. Having had enough, Jaune stands up to him."
+  }, {
+    "episode": 14,
+    "season": 1,
+    "chapter": 14,
+    "title": "Forever Fall, Part 2",
+    "time": "6:08",
+    "release_date": "10172013",
+    "rating": 0,
+    "description": "While beating up Jaune, Team CRDL is attacked by an Ursa. Jaune helps Cardin by defeating the Ursa, aided by Pyrrha's Semblance, and tells him to leave him alone from now on. He makes amends with Pyrrha."
+  }, {
+    "episode": 15,
+    "season": 1,
+    "chapter": 15,
+    "title": "The Stray",
+    "time": "10:41",
+    "release_date": "10312013",
+    "rating": 0,
+    "description": "As they prepare for the Vytal Festival Tournament, Team RWBY meets a strange girl named Penny. Weiss and Blake get into a heated argument over the Faunus and the White Fang. When Blake accidentally reveals that she is a Faunus, she runs away with Sun, a monkey Faunus she encountered earlier at the docks, in fear of rejection."
+  }, {
+    "episode": 16,
+    "season": 1,
+    "chapter": 16,
+    "title": "Black and White",
+    "time": "15:30",
+    "release_date": "11072013",
+    "rating": 0,
+    "description": "Blake reveals her past as a former White Fang member to Sun, and they discover that the White Fang work for Torchwick during a stakeout. Ruby and Penny arrive and defeat the White Fang as Torchwick escapes. After the fight, Weiss and Blake make amends. Penny, without anyone noticing, is taken by her father. Ozpin gets an alarming text message from Qrow, who warns him of an impending danger."
+  }, {
+    "episode": 17,
+    "season": 2,
+    "chapter": 1,
+    "title": "Best Day Ever",
+    "time": "14:43",
+    "release_date": "07242014",
+    "rating": 0,
+    "description": "Emerald and Mercury, Cinder's associates, assassinate Tukson for leaving the White Fang. Meanwhile, Sun prepares to introduce his teammate Neptune to Team RWBY. In the dining hall, Nora accidentally starts a large-scale food fight between Teams RWBY and JNPR, which Ruby wins for her team. Ozpin stops Glynda from reprimanding them and says that they might not be able to enjoy themselves for long."
+  }, {
+    "episode": 18,
+    "season": 2,
+    "chapter": 2,
+    "title": "Welcome to Beacon",
+    "time": "13:14",
+    "release_date": "07312014",
+    "rating": 0,
+    "description": "General James Ironwood, head of the Atlas military and Academy, arrives at Beacon with several military airships in tow, which Ozpin fears will alarm the citizens. Meanwhile, Blake begins to open up to her teammates, concerned about the enemies and admitting that they are not ready to stop them. Ruby decides that their team should investigate for any leads on possible future attacks. At the same time, Cinder, Emerald and Mercury have infiltrated Beacon as students from Haven Academy."
+  }, {
+    "episode": 19,
+    "season": 2,
+    "chapter": 3,
+    "title": "A Minor Hiccup",
+    "time": "12:35",
+    "release_date": "08072014",
+    "rating": 0,
+    "description": "To find clues on the enemies' next move, Ruby and Weiss investigate the Schnee Dust Company files for robberies; Blake and Sun spy on a White Fang recruitment rally; and Yang and Neptune broker with Junior for information. During Ruby and Weiss' investigation, Ruby follows Penny, who is hiding from Ironwood and the Atlas soldiers. After the soldiers give chase, Penny saves Ruby from getting hit by a truck, revealing that she is a robot."
+  }, {
+    "episode": 20,
+    "season": 2,
+    "chapter": 4,
+    "title": "Painting The Town...",
+    "time": "16:19",
+    "release_date": "08142014",
+    "rating": 0,
+    "description": "Penny reveals herself to be the first synthetic person capable of generating an Aura, and Ruby accepts this. Meanwhile, Blake and Sun discover that Torchwick is at the White Fang rally, encouraging the Faunus to work with him. He unveils a stolen Paladin and uses it to pursue Blake and Sun after recognizing them. Team RWBY is able to destroy the Paladin, but Torchwick escapes with his accomplice, Neopolitan."
+  }, {
+    "episode": 21,
+    "season": 2,
+    "chapter": 5,
+    "title": "Extracurricular",
+    "time": "12:41",
+    "release_date": "08282014",
+    "rating": 0,
+    "description": "Team RWBY compiles information from their investigation and deduces that the White Fang is carrying out their activities in Vale's southeast territory. In between this, the students are also preparing for the Vytal Tournament Festival Ball, but Blake is focused on their mission and Weiss rejects Jaune's invitation. In the dorms, Mercury reveals he used the practice match to analyze Pyrrha's fighting abilities, and Cinder decides to include her as a pawn in her plan."
+  }, {
+    "episode": 22,
+    "season": 2,
+    "chapter": 6,
+    "title": "Burning the Candle",
+    "time": "13:09",
+    "release_date": "09042014",
+    "rating": 0,
+    "description": "Blake exhausts herself in her research for Torchwick and the White Fang, worrying her teammates. Yang confronts Blake about her obsession by confiding in her an incident in her childhood where she nearly causes Ruby and herself to get killed over a dangerous journey to look for her missing mother. Blake heeds Yang's advice and attends the tournament ball."
+  }, {
+    "episode": 23,
+    "season": 2,
+    "chapter": 7,
+    "title": "Dance Dance Infiltration",
+    "time": "14:49",
+    "release_date": "09112014",
+    "rating": 0,
+    "description": "During the Vytal Tournament Festival Ball, Jaune reconciles his friendship with Pyrrha and gets over his insecurities. Meanwhile, a disguised Cinder infiltrates the CCT tower and plants a virus in the central computer. She flees before Ruby and Ironwood uncover her identity, her mission successful."
+  }, {
+    "episode": 24,
+    "season": 2,
+    "chapter": 8,
+    "title": "Field Trip",
+    "time": "12:13",
+    "release_date": "09252014",
+    "rating": 0,
+    "description": "Ruby is questioned about the intruder in Ozpin's office and links her to Torchwick and the White Fang. Afterwards, the first year students gather for their first mission: shadowing a professional Huntsmen or Huntress on an assignment. Team RWBY volunteers for an assignment southeast that is off-limits for first years, but Ozpin allows them to accept it. Outside, Team RWBY discovers that the Huntsman they are shadowing is Professor Oobleck."
+  }, {
+    "episode": 25,
+    "season": 2,
+    "chapter": 9,
+    "title": "Search and Destroy",
+    "time": "15:49",
+    "release_date": "10022014",
+    "rating": 0,
+    "description": "Oobleck takes Team RWBY to Mountain Glenn for their mission and questions each of them why they decided to become Huntresses."
+  }, {
+    "episode": 26,
+    "season": 2,
+    "chapter": 10,
+    "title": "Mountain Glenn",
+    "time": "12:55",
+    "release_date": "10092014",
+    "rating": 0,
+    "description": "As Team RWBY mulls over their motives of becoming Huntresses, Ruby discovers White Fang members patrolling the area. She falls into an underground city with secret tunnels to Vale, where she is subdued by the Faunus and brought before Torchwick."
+  }, {
+    "episode": 27,
+    "season": 2,
+    "chapter": 11,
+    "title": "No Brakes",
+    "time": "16:45",
+    "release_date": "10232014",
+    "rating": 0,
+    "description": "Ruby's teammates and Oobleck rescue her, but Torchwick's train begins to take off to the city, using bombs to destroy the cave and allowing the Grimm to follow them. As Team RWBY threads through the train to stop it, they are unsuccessful. The train crashes into the city, where the Grimm emerge and begin to attack."
+  }, {
+    "episode": 28,
+    "season": 2,
+    "chapter": 12,
+    "title": "Breach",
+    "time": "17:55",
+    "release_date": "10302014",
+    "rating": 0,
+    "description": "Team RWBY successfully fights off hordes of Grimm with their friends, classmates, and teachers. Torchwick is arrested, but Adam arrives, ready to continue Cinder's plans. In a post-credits scene, Yang encounters Raven, who takes off her mask and reveals a startling resemblance to her."
+  }, {
+    "episode": 29, 
+    "season": 3,
+    "chapter": 1,
+    "title": "Round One",
+    "time": "17:03",
+    "release_date": "10242015",
+    "rating": 0,
+    "description": "In the Vytal Festival Tournament, Team RWBY wins their first round against Haven's Team ABRN. Victorious, the girls visit the festival fairgrounds for lunch."
+  }, {
+    "episode": 30, 
+    "season": 3,
+    "chapter": 2,
+    "title": "New Challengers...",
+    "time": "14:36",
+    "release_date": "10312015",
+    "rating": 0,
+    "description": "Team JNPR fight against Shade's Team BRNZ and defeat them after a rocky start. Later, Team SSSN of Haven, Sun and Neptune's team, against Shade's all-female Team NDGO. Despite Neptune's fear of water, Team NDGO is defeated as well."
+  }, {
+    "episode": 31, 
+    "season": 3,
+    "chapter": 3,
+    "title": "It's Brawl in the Family",
+    "time": "16:34",
+    "release_date": "11142015",
+    "rating": 0,
+    "description": "Weiss is excited to see her stern older sister Winter, who arrived with the airship. Qrow provokes Winter into a fight, which is later stopped by Ozpin and Ironwood. In private, Qrow reports that the festival has been infiltrated. Meanwhile, Cinder hacks into Ironwood's scroll and sets up Mercury and Emerald against Team CFVY's Coco and Yatsuhashi."
+  }, {
+    "episode": 32, 
+    "season": 3,
+    "chapter": 4,
+    "title": "Lessons Learned",
+    "time": "14:21",
+    "release_date": "11282015",
+    "rating": 0,
+    "description": "Emerald and Mercury easily defeat Coco and Yatsuhashi in their fight. Afterwards, Qrow is suspicious about the fact that violence and crime in Vale stopped after Torchwick's arrest and warns Ruby and Yang that danger is imminent. At the same time, Winter trains Weiss on developing her summoning ability. As Weiss and Winter part ways, both are unaware that Weiss summoned a small white sword."
+  }, {
+    "episode": 33, 
+    "season": 3,
+    "chapter": 5,
+    "title": "Never Miss a Beat",
+    "time": "13:08",
+    "release_date": "12052015",
+    "rating": 0,
+    "description": "Penny and Ciel Soleil win their doubles fight against Team CRDL. Afterwards, Weiss and Yang are up against Flynt Coal and Neon Katt from Atlas' Team FNKI. They defeat both opponents, gaining their respect. In the dorms, Cinder discovers Penny's structural designs among the data stolen from Ironwood's scroll. Meanwhile, Qrow and Ozpin nominate Pyrrha as a candidate for their 'guardian.'"
+  }, {
+    "episode": 34, 
+    "season": 3,
+    "chapter": 6,
+    "title": "Fall",
+    "time": "18:20",
+    "release_date": "12122015",
+    "rating": 0,
+    "description": "Pyrrha is faced with the decision to accept the Fall Maiden's Aura and powers, a process that could fail or make her lose her identity. Meanwhile, the Vytal Festival Tournament proceeds to its singles match, with Yang and Mercury fighting in the first round. Yang wins, but Emerald uses her Semblance to trick her into attacking a defenseless Mercury. The audience becomes angry and the Grimm outside Vale stir from the negative emotions."
+  }, {
+    "episode": 35, 
+    "season": 3,
+    "chapter": 7,
+    "title": "Beginning of the End",
+    "time": "17:01",
+    "release_date": "01022016",
+    "rating": 0,
+    "description": "In a flashback, Cinder recruits Emerald and Mercury. Later, they ambush the Fall Maiden, Amber, using Emerald's Semblance to lure her in. Qrow intervenes, but Cinder is successful in stealing half of her powers. With her new abilities, Cinder forces the White Fang to cooperate. In the present, Emerald, Cinder and Neo fly Mercury out of Amity Colosseum, revealing that Mercury was never injured from Yang's attack due to his prosthetic legs."
+  }, {
+    "episode": 36, 
+    "season": 3,
+    "chapter": 8,
+    "title": "Destiny",
+    "time": "17:38",
+    "release_date": "01092016",
+    "rating": 0,
+    "description": "Yang is disqualified from the tournament, while Pyrrha remains conflicted about Ozpin's offer. Jaune indirectly encourages to go through with becoming the Fall Maiden, causing her to be upset. On her way to the arena, Ruby meets Velvet, who remembers that Coco had a similar hallucination to Yang. Ruby becomes suspicious when she spots Emerald in the arena, but before she is able to reach her, she is confronted by Mercury."
+  }, {
+    "episode": 37, 
+    "season": 3,
+    "chapter": 9,
+    "title": "PvP",
+    "time": "12:28",
+    "release_date": "01162016",
+    "rating": 0,
+    "description": "During Pyrrha and Penny's match, Emerald uses her Semblance on Pyrrha, causing her inadvertently to tear Penny apart. Everyone is horrified, and Cinder takes control over the computers to blame all incidents on Ozpin and Ironwood in a public broadcast. The negative emotions of the people are amplified, causing hordes of Grimm to attack Beacon Academy. Neo breaks Torchwick out of prison and they gain control of Ironwood's flagship. Meanwhile, Adam and the White Fang arrive at Beacon."
+  }, {
+    "episode": 38,
+    "season": 3,
+    "chapter": 10,
+    "title": "Battle of Beacon",
+    "time": "16:35",
+    "release_date": "01302016",
+    "rating": 0,
+    "description": "As the Grimm attack continues, Ruby gains the support of the other teams from the school to fight as the Huntsmen teachers also fend off the Grimm in various locations. Torchwick uploads Cinder's virus on Ironwood's flagship, seizing control of Atlesian androids and Paladins. A giant Grimm dragon bursts out of Mountain Glenn and flies towards Beacon, spawning more Grimm onto the battlefield. While Cinder has her associates broadcast the wreckage, she follows Ozpin, Pyrrha, and Jaune back into the tower."
+  }, {
+    "episode": 39,
+    "season": 3,
+    "chapter": 11,
+    "title": "Heroes and Monsters",
+    "time": "17:21",
+    "release_date": "02062016",
+    "rating": 0,
+    "description": "Ruby fights Neo and Torchwick. Neo is thrown off the ship, and Torchwick is devoured by a Grimm. As the rest of the students fight the Paladins at school, Velvet uses her Semblance while Weiss summons the sword-arm of an Armored Knight. Meanwhile, Adam punishes Blake for her 'betrayal' by destroying everything she loves, starting with cutting off Yang's arm. In the vault, Ozpin starts to transfer Amber's powers into Pyrrha, but Cinder kills Amber before the process is completed, stealing her remaining powers."
+  }, {
+    "episode": 40,
+    "season": 3,
+    "chapter": 12,
+    "title": "End of the Beginning",
+    "time": "28:05",
+    "release_date": "02132016",
+    "rating": 0,
+    "description": "Cinder overpowers Ozpin and kills Pyrrha. Ruby, who witnesses this, unleashes white light from her eyes that engulfs Cinder and the dragon. When Ruby wakes up, Qrow explains that her unexpected ability comes being from a line of rare and powerful silver-eyed warriors, like her mother. With the CCT tower destroyed, civilians have lost trust in the kingdoms, while Ruby no longer has the support of her team. As winter falls, Ruby, Jaune, Nora and Ren travel to Haven, where Qrow suspects Cinder will attack next. The narrator, Salem, reveals herself as the true mastermind behind the Fall of Beacon. In a post-credits scene, Qrow follows Ruby and her friends under the guise of a crow."
+  }, {
+    "episode": 41,
+    "season": 4,
+    "chapter": 1,
+    "title": "The Next Step",
+    "time": "19:51",
+    "release_date": "10222016",
+    "rating": 0,
+    "description": "Salem targets Haven Academy in Mistral next. While Cinder stays with Salem for rehabilitation, Watts is ordered to meet with a correspondent in Mistral, Hazel to meet with Adam, and Tyrian to apprehend Ruby. Meanwhile, Ruby, Nora, Jaune and Ren, now known as Team RNJR, fight a Geist threatening a nearby village. As part of the reward, the village's blacksmith upgrades Jaune's armor and weapons with metal from Pyrrha's armor. The group leaves for Shion Village, hoping to catch an airship to Haven Academy."
+  }, {
+    "episode": 42,
+    "season": 4,
+    "chapter": 2,
+    "title": "Remembrance",
+    "time": "14:20",
+    "release_date": "10292016",
+    "rating": 0,
+    "description": "Jacques Schnee forces Weiss to agree to perform at a charity event, which he hosts to boost the company image after the Fall of Beacon. In Mistral, Team RNJR reaches Shion Village, but finds it destroyed and the villagers dead. A mortally wounded Huntsman reveals that bandits, followed up by Grimm, are responsible."
+  }, {
+    "episode": 43,
+    "season": 4,
+    "chapter": 3,
+    "title": "Of Runaways and Stowaways",
+    "time": "18:17",
+    "release_date": "11052016",
+    "rating": 0,
+    "description": "Blake travels to Menagerie on a ship, which falls under the attack of a Grimm. She defeats it with the help of Sun, who secretly followed her after Beacon was destroyed. He offers her assistance in investigating the White Fang, but Blake, however, wants to return home to rest. In Patch, Yang is given a bionic arm from Ironwood, but she is hesitant to try it on, still suffering from her memories of Adam."
+  }, {
+    "episode": 44,
+    "season": 4,
+    "chapter": 4,
+    "title": "Family",
+    "time": "16:28",
+    "release_date": "11192016",
+    "rating": 0,
+    "description": "Ozpin, who is still alive, emerges and communicates with a young farmboy, Oscar Pine. In Patch, Yang confides her reluctance in confronting her fears in Taiyang, as well as Port and Oobleck, who are visiting. Gaining resolve to fight, Yang attaches her arm and begins to train with Taiyang. At the nearby tavern, Qrow meets his twin sister, Raven, now the leader of the bandit tribe that raised her and Qrow. The two end up criticizing each other for abandoning their families, and Raven leaves."
+  }, {
+    "episode": 45,
+    "season": 4,
+    "chapter": 5,
+    "title": "Menagerie",
+    "time": "12:38",
+    "release_date": "12032016",
+    "rating": 0,
+    "description": "Blake and Sun arrive in Kuo Kuana, the main city of Menagerie. Two representatives of the White Fang, Corsac and Fennec Albain, visit the Belladonnas, and when confronted about the White Fang's role in the Fall of Beacon, the Albains state that a splinter group under Adam's lead is responsible. After their visit, Corsac and Fennec agree to inform Adam of Blake's homecoming."
+  }, {
+    "episode": 46,
+    "season": 4,
+    "chapter": 6,
+    "title": "Tipping Point",
+    "time": "16:23",
+    "release_date": "12102016",
+    "rating": 0,
+    "description": "Weiss performs at the charity concert but remains critical of all the attendees and guests for their shallow and dismissive behavior towards Beacon. At the after party, she is enraged upon hearing a woman mock the Fall of Beacon and inadvertently summons a Boarbatusk. In Mistral, Team RNJR comes across an abandoned town called Oniyuri. Before they can leave, Tyrian ambushes them and is revealed to be a scorpion Faunus. He easily defeats them but is stopped in time by Qrow."
+  }, {
+    "episode": 47,
+    "season": 4,
+    "chapter": 7,
+    "title": "Punished",
+    "time": "16:44",
+    "release_date": "12242016",
+    "rating": 0,
+    "description": "Ozpin informs Oscar that their souls and Aura have merged and they can access each other's memories. While Oscar is reluctant to accept this, Ozpin urges him to go to Mistral to carry out an important task. In Atlas, Weiss is blamed for hurting the Schnees' reputation and, as a result, is confined her to her room and disinherited. In Oniyuri, despite Qrow's warnings to stay back, Ruby joins him in battle. Tyrian grazes him with his stinger. Ruby cuts off the stinger, forcing Tyrian to retreat."
+  }, {
+    "episode": 48,
+    "season": 4,
+    "chapter": 8,
+    "title": "A Much Needed Talk",
+    "time": "20:38",
+    "release_date": "12312016",
+    "rating": 0,
+    "description": "At nightfall, Qrow explains to Team RNJR that they, as Hunstmen, have the duty to protect the four relics guarded by the Huntsmen academies. By the next morning, the poison from Tyrian's stinger has gotten worse, rendering Qrow immobile. Blake mends her relationship with Ghira, who comforts her about lashing out at him and staying in the White Fang. Sun accidentally interrupts them to warn Blake about a masked White Fang member in the market. The two notice a spy outside and give chase."
+  }, {
+    "episode": 49,
+    "season": 4,
+    "chapter": 9,
+    "title": "Two Steps Forward, Two Steps Back",
+    "time": "15:25",
+    "release_date": "01072017",
+    "rating": 0,
+    "description": "Yang and Weiss complete their training and prepare to leave for Mistral. Meanwhile, Blake and Sun discover that Blake's old acquaintance Ilia Amitola, is now a white Fang member. At the same time, Team RNJR are forced to choose between taking two paths. Ren and Nora decide to take the mountain path while Ruby and Jaune carry Qrow through Kuroyuri."
+  }, {
+    "episode": 50,
+    "season": 4,
+    "chapter": 10,
+    "title": "Kuroyuri",
+    "time": "18:54",
+    "release_date": "01212017",
+    "rating": 0,
+    "description": "Ren and Nora's past is revealed through a flashback: years ago, Kuroyuri is attacked from Grimm, led by a Nuckelavee, and Ren's parents are killed. Ren's Semblance activates when he sees Nora in danger, which calms him down and hides his and Nora's presence from the Grimm. In the present, Ren and Nora realize that the Nuckelavee is headed towards Ruby, Jaune, and Qrow."
+  }, {
+    "episode": 51,
+    "season": 4,
+    "chapter": 11,
+    "title": "Taking Control",
+    "time": "15:37",
+    "release_date": "01282017",
+    "rating": 0,
+    "description": "Yang prepares to leave, and Taiyang asks if she is going after Ruby or Raven. Weiss, with Klein's help, sneaks out of the Schnee Manor, hoping to find Winter in Mistral. In Menagerie, Blake confesses to Sun about leaving her friends in fear of them getting hurt. After learning that Ilia's scroll contained Adam's plans to attack Haven, Blake decides that to reclaim the White Fang. Meanwhile, Ren and Nora desperately rush towards Kuroyuri, where the Nuckelavee-Grimm emerges."
+  }, {
+    "episode": 52,
+    "season": 4,
+    "chapter": 12,
+    "title": "No Safe Haven",
+    "time": "27:03",
+    "release_date": "02042017",
+    "rating": 0,
+    "description": "While Jaune moves Qrow to safety, Ren begins fighting the Nuckelavee recklessly until Nora calms him down. Team RNJR then comes up with a coordinated strategy and Ren successfully executes the Grimm. Two patrolling military airships from Mistral arrive and they take Team RNJR to Mistral. Ruby and her group plan to visit Professor Lionheart at Haven Academy once Qrow's injuries are fully healed. Unbeknownst to them, he is working for Watts. In a post-credits scene, Oscar approaches Qrow in a bar and identifies himself as Ozpin. Qrow returns his cane."
+  }, {
+    "episode": 53,
+    "season": 5,
+    "chapter": 1,
+    "title": "Welcome to Haven",
+    "time": "23:03",
+    "release_date": "10142017",
+    "rating": 0,
+    "description": "Qrow and Team RNJR visit Professor Leonardo Lionheart to protect Haven's relic, which can only be accessed by the Spring Maiden. After Lionheart refuses Qrow's plan, Qrow is approached by Oscar, who identifies himself as Ozpin. The Belladonnas confront the Albains about the information from Ilia's scroll, but they blame Ilia. Blake decides to go public with the information instead. Somewhere in Mistral, a shady man offers to lead Yang to Raven."
+  }, {
+    "episode": 54,
+    "season": 5,
+    "chapter": 2,
+    "title": "Dread in the Air",
+    "time": "21:04",
+    "release_date": "10212017",
+    "rating": 0,
+    "description": "Salem tasks Cinder with using the Spring Maiden in Raven's tribe to unlock Haven's relic. Weiss' airship is attacked by Lancers, wasp-type Grimm. She kills their Queen by summoning her Armored Knight, but the damaged airship crashes and she is captured by Raven's tribe. Adam usurps and kills the White Fang's Leader Sienna Khan, ordering the humans be framed for her death."
+  }, {
+    "episode": 55,
+    "season": 5,
+    "chapter": 3,
+    "title": "Unforeseen Complications",
+    "time": "18:35",
+    "release_date": "10282017",
+    "rating": 0,
+    "description": "Blake and her parents hold a press conference to persuade the Faunus to help Mistral, but Ilia publicly denounces the Belladonnas as traitors and sways trust in them. Ozpin explains his reincarnation to Team RNJR and, predicting Salem will attack Haven Academy in one month, he decides to train both them and Oscar. Learning Winter has since left for Atlas, Weiss summons a small Armored Knight to help her escape."
+  }, {
+    "episode": 56,
+    "season": 5,
+    "chapter": 4,
+    "title": "Lighting the Fire",
+    "time": "16:15",
+    "release_date": "11042017",
+    "rating": 0,
+    "description": "Yang demands Raven help her get to Ruby with her Semblance. Raven initially refuses, claiming that Ozpin is not to be trusted, but Weiss escapes her confinement with the help of her Armored Knight and reunites with Yang. Not wanting to attract Grimm, Raven agrees to Yang's demands and summons her and Weiss to her tent to tell them what they need to know."
+  }, {
+    "episode": 57,
+    "season": 5,
+    "chapter": 5,
+    "title": "Necessary Sacrifice",
+    "time": "16:58",
+    "release_date": "11112017",
+    "rating": 0,
+    "description": "Blake and Sun fail to get enough signatures for their petition to save Haven Academy, due to the Faunus in Menagerie wanting to avoid conflict. Despite knowing she will have to face Ilia, Blake hopes to save her from the White Fang. However, Ilia is given orders by the Albains to orchestrate the assassination of Blake's parents and bring Blake alive to Adam."
+  }, {
+    "episode": 58,
+    "season": 5,
+    "chapter": 6,
+    "title": "Known by its Song",
+    "time": "17:37",
+    "release_date": "11182017",
+    "rating": 0,
+    "description": "Raven explains to Yang and Weiss that she joined Beacon to fight back against other Huntsmen that would pose a threat to her tribe, but lost trust in Ozpin after learning about Salem's existence. She shows off her shapeshifting ability as proof and offers Yang a choice to stay with her. Yang and Weiss choose to leave and reunite with Ruby."
+  }, {
+    "episode": 59,
+    "season": 5,
+    "chapter": 7,
+    "title": "Rest and Resolutions",
+    "time": "12:48",
+    "release_date": "11252017",
+    "rating": 0,
+    "description": "The kids have a heartfelt reunion over dinner. Later, Yang confronts Ozpin about using magic on Qrow and Raven, who admits he gave them shapeshifting abilities to spy on Salem and the Maidens - as well as being the old man in the story that gave the Maidens their power. He offers them the choice to continue to fight, which they all accept. Meanwhile, Cinder, Watts, Mercury and Emerald arrive at Raven's camp."
+  }, {
+    "episode": 60,
+    "season": 5,
+    "chapter": 8,
+    "title": "Alone Together",
+    "time": "15:18",
+    "release_date": "12022017",
+    "rating": 0,
+    "description": "Yang is upset when Ruby mentions Blake later in the morning, but Weiss comforts her, asking she trust Blake until she comes back. In Menagerie, Blake receives a note from Ilia to meet with her, but it turns out to be an ambush. Sun rescues Blake from her captors and rushes to help her parents, who are defending their home from White Fang insurgents."
+  }, {
+    "episode": 61,
+    "season": 5,
+    "chapter": 9,
+    "title": "A Perfect Storm",
+    "time": "15:07",
+    "release_date": "12092017",
+    "rating": 0,
+    "description": "Cinder strikes a deal with Raven and Vernal, the Spring Maiden, to help her unlock the relic. Despite knowing that Salem will have her killed anyway, Raven accepts her offer on the condition she kills Qrow, while secretly planning to take the relic for herself. Blake and Sun defend Ghira from an attack and, while Blake is on her way to look for Kali, she is stopped by Ilia."
+  }, {
+    "episode": 62,
+    "season": 5,
+    "chapter": 10,
+    "title": "True Colors",
+    "time": "19:26",
+    "release_date": "12162017",
+    "rating": 0,
+    "description": "As Blake and Ilia fight, Ilia is torn between following Blake and the White Fang. When the Albain brothers intervene, Fennec is killed and the Belladonnas and Sun are victorious in their battle. Blake convinces the Faunus of Menagerie that they need to stop Adam and the majority join her, including Ilia."
+  }, {
+    "episode": 63,
+    "season": 5,
+    "chapter": 11,
+    "title": "The More the Merrier",
+    "time": "16:05",
+    "release_date": "12302017",
+    "rating": 0,
+    "description": "Ruby and the rest of her group meet with Lionheart, where his allegiance to Salem is revealed. Raven, Vernal, Cinder, Emerald, Mercury, and Hazel ambush them, with the latter revealing that the White Fang have also arrived as they prepare to destroy the school. Jaune attacks Cinder, attempting to avenge Pyrrha's death, but Weiss is impaled by Cinder in the ensuing battle."
+  }, {
+    "episode": 64,
+    "season": 5,
+    "chapter": 12,
+    "title": "Vault of the Spring Maiden",
+    "time": "14:43",
+    "release_date": "01062018",
+    "rating": 0,
+    "description": "Hazel becomes enraged at Ozpin and fights him to settle an old grudge. Jaune unlocks his Semblance and heals Weiss while Ruby and Yang hold off Emerald and Mercury. Upon entering the vault, Cinder fatally strikes Vernal to steal her powers. However, Raven reveals that she is the real Spring Maiden and prepares to fight Cinder for the Relic."
+  }, {
+    "episode": 65,
+    "season": 5,
+    "chapter": 13,
+    "title": "Downfall",
+    "time": "15:28",
+    "release_date": "01132018",
+    "rating": 0,
+    "description": "Ruby distracts Emerald and Mercury long enough for Yang to pursue Raven and Cinder, while a recovered Weiss summons the Lancer Queen to defeat Hazel. Adam prepares to destroy the school, but Blake arrives with the rest of the Faunus to take him into custody. Raven defeats Cinder in a grueling battle and unlocks the relic, but is confronted by Yang before she can claim it."
+  }, {
+    "episode": 66,
+    "season": 5,
+    "chapter": 14,
+    "title": "Haven's Fate",
+    "time": "24:29",
+    "release_date": "01202018",
+    "rating": 0,
+    "description": "Yang denounces Raven and her actions, shaming her into fleeing. Emerald breaks down upon learning of Cinder's defeat while Adam and Lionheart flee, forcing Mercury and Hazel to retreat. Salem kills Lionheart for his cowardice, while Ghira reclaims leadership of the White Fang. Despite brief tension in Yang, Blake is welcomed back by RWBY as Ozpin directs them to make for Atlas. In a post-credits scene, Raven visits Taiyang in secret."
+  }
+]

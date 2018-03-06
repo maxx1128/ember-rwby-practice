@@ -1,0 +1,35 @@
+<div class="rwby-flex rwby-flex-wrap rwby-flex-nowrap-sm">
+  <div class="rwby-flex-item rwby-flex-basis-12 rwby-flex-basis-3-sm rwby-flex-basis-5-md rwby-flex rwby-flex-column rwby-p-base">
+    <h4>
+      Total Rating: {{percentage sum_rating top_rating}}
+    </h4>
+
+    {{#each model.characters as |char|}}
+      {{fighter-profile char "rwby-my-quart rwby-flex-item"}}
+    {{/each}}
+  </div>
+
+  <div class="rwby-flex-item rwby-flex-basis-12 rwby-flex-basis-9-sm rwby-flex-basis-7-md rwby-p-base">
+    {{outlet}}
+  </div> 
+</div>
+
+<hr>
+
+Name: {{input value=newCharacter}}
+<br>
+Description: {{textarea value=newDescription}}
+<br>
+Team: 
+{{#x-select value=newTeam as |xs|}}
+  {{#each model.teams as |team|}}
+    {{#xs.option value=team}}
+      {{team.name}}
+    {{/xs.option}}
+  {{/each}}
+{{/x-select}}
+
+<br>
+{{input type="checkbox" name="newCharacterLeader" checked=newCharacterLeader}} Leader?
+<br>
+<button {{action 'addCharacter'}}>Save</button>

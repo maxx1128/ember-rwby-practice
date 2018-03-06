@@ -1,5 +1,25 @@
-{{!-- The following component displays Ember's default welcome message. --}}
-{{welcome-page}}
-{{!-- Feel free to remove this! --}}
+<h2>
+  {{ show }}
+</h2>
+
+<ul>
+  <li>
+    {{link-to 'About' 'about'}}
+  </li>
+
+  <li>
+    {{link-to 'Episodes' 'episodes'}}
+  </li>
+
+  <li>
+    {{link-to 'Teams' 'teams'}}
+  </li>
+
+  <li>
+    {{link-to 'Characters' 'characters'}}
+  </li>
+</ul>
+
+<hr>
 
 {{outlet}}
