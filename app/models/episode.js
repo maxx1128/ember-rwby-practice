@@ -8,5 +8,6 @@ export default DS.Model.extend({
   time: DS.attr('string'),
   title: DS.attr('string'),
   rating: DS.attr('number'),
+  "youtube_id": DS.attr('string'),
   description: DS.attr('string')
 });

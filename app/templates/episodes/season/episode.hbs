@@ -1,5 +1,11 @@
-<h3>
-  Episode data!
-</h3>
+<div class="rwby-flex-item rwby-flex-basis-6-sm rwby-flex-basis-7-md rwby-py-half rwby-px-oneHalf">
+  <h5>
+    Episode data!
+  </h5>
 
-{{ model.title }}
+  {{ model.title }}
+
+  <div class="video-container">
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/{{ model.youtube_id }}" frameborder="0" allowfullscreen></iframe>
+  </div>
+</div>

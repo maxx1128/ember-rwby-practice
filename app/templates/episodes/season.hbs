@@ -1,15 +1,17 @@
-<h4>
-  All episodes in season {{season}}
-</h4>
+<div class="rwby-flex-item rwby-flex-basis-3-md rwby-p-half">
+  <h5>
+    Season {{season}} Episodes
+  </h5>
 
-<ul>
-  {{#each filteredEpisodes as |ep|}}
-    <li>
-      {{#link-to 'episodes.season.episode' season ep.id }}
-        {{ep.title}}
-      {{/link-to}}
-    </li>
-  {{/each}}
-</ul>
+  <ul>
+    {{#each filteredEpisodes as |ep|}}
+      <li>
+        {{#link-to 'episodes.season.episode' season ep.id }}
+          {{ep.title}}
+        {{/link-to}}
+      </li>
+    {{/each}}
+  </ul>
+</div>
 
 {{outlet}}

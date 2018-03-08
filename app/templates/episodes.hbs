@@ -1,15 +1,29 @@
-<h4>
-  All the current episodes are here!
-</h4>
+<div class="rwby-px-half rwby-py-oneHalf">
+  <h3>
+    All the current episodes are here!
+  </h3>
 
-<ul>
-  {{#each different_seasons as |season|}}
-    <li>
-      {{#link-to 'episodes.season' season}}
-        {{season}}
-      {{/link-to}}
-    </li>
-  {{/each}}
-</ul>
+  <p>
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod voluptatem dicta repellat, aut laboriosam laborum quaerat, dolores dolorum labore commodi, doloremque cupiditate. Mollitia sed eligendi, repudiandae, recusandae voluptatibus ipsum eum.
+  </p>
+</div>
 
-{{outlet}}
+<div class="rwby-flex rwby-flex-wrap rwby-flex-nowrap-sm">
+  <div class="rwby-flex-item rwby-flex-basis-12 rwby-flex-basis-3-sm rwby-flex-basis-2-md rwby-p-half">
+    <h5>
+      Seasons
+    </h5>
+
+    <ul>
+      {{#each different_seasons as |season|}}
+        <li>
+          {{#link-to 'episodes.season' season}}
+            {{season}}
+          {{/link-to}}
+        </li>
+      {{/each}}
+    </ul>
+  </div>
+
+  {{outlet}}
+</div>
